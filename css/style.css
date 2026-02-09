@@ -434,7 +434,8 @@
 	Personal CSS
 =========================*/
 #personal-area {
-	background-image: url('../images/personal-bg.jpg');
+	/* background-image: url('../images/personal-bg.jpg'); */
+	/* ! Poner un banner (a medida de la plantilla) de mi yo actual */
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 680px;
