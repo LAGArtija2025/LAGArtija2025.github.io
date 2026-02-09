@@ -846,6 +846,7 @@
 	background: #333;
 	padding: 30px 30px 30px 100px;
 	border-radius: 5px;
+	min-height: 375px;
 }
 
 #about-me .tab-pane {
